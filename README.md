@@ -1,2 +1,2 @@
-# Coding-contest-Information
+# Coding-Contest
 Created with CodeSandbox
